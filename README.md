@@ -7,5 +7,5 @@
 #### 1. You can move by clicking the direction button.
 #### 2. You can zoom in and out using the mouse wheel
 #### 3. Write a description of the place in the lower left corner
-
-##### This will be utilized in view_inside.
+-----------------------------------
+##### (This will be utilized in "view_inside")
